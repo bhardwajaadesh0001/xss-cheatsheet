@@ -1,6 +1,6 @@
 # xss-cheatsheet
 
-Thsi a text file conating some(actually many) Cross-Site Scripting(XSS) payloads.
+Thsi a text file containing some(actually many, ummmm, really many) Cross-Site Scripting(XSS) payloads.
 
 Credits to The Pro Keyboard Slapper, LOL!
 
